@@ -33,6 +33,11 @@ Data Includes: Employee job roles, gender, age, qualification, salary, leave bal
 
 6)What are the trends in employee joining over the years?
 
+### Dashboard :
+
+![Screenshot 2025-05-21 115254](https://github.com/user-attachments/assets/f93e862b-d7ea-4595-8a8a-b3ae06ff308b)
+
+
 ### Process:
 
 **Data Cleaning:** Removed duplicates, filled missing values, standardized job titles.
