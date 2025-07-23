@@ -1,10 +1,5 @@
 # HR-Dashboard
 
-### Dashboard :
-
-![Screenshot 2025-05-21 115254](https://github.com/user-attachments/assets/f93e862b-d7ea-4595-8a8a-b3ae06ff308b)
-
-
 ### Project Objective:
 The objective of this project is to analyze and visualize employee data to support strategic HR decision-making. The dashboard aims to provide insights into workforce demographics, salary patterns, leave behavior, and recruitment trends to:
 
@@ -15,6 +10,11 @@ Optimize hiring strategies.
 Align compensation with qualifications.
 
 Identify potential HR challenges.
+
+### Dashboard :
+
+![Screenshot 2025-05-21 115254](https://github.com/user-attachments/assets/f93e862b-d7ea-4595-8a8a-b3ae06ff308b)
+
 
 ### Dataset Used:
 
